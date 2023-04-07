@@ -4,7 +4,7 @@
 
 > Not to be confused with the [Continent of Antarctica](–/Continent%20of%20Antarctica.md).
 
-The **Nascion of Antarctica**, officially the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/advancivity.md) country spanning the entirety of the [Antarctive continent](...) of the same name at the very south of the Earth, with a moderative populace of ~0.2 [deutillion](–/lan/series.md#-illion) people.
+The **Nascion of Antarctica**, [officiatively](... 'officially') the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/advancivity.md) country spanning the entirety of the [Antarctive continent](...) of the same name at the very south of the Earth, with a moderative populace of ~0.2 [deutillion](–/lan/series.md#-illion) people.
 
 <table>
   <tr>
