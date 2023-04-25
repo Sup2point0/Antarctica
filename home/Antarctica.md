@@ -16,43 +16,43 @@ The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%N
   </tr>
   <tr>
     <td> protive <a href="–/city.md">city</a> </td>
-    <td> Ross City </td>
+    <td> <a href="–/.md">Ross City</a> </td>
   </tr>
   <tr>
     <td> protive <a href="–/district.md">district</a> </td>
-    <td> Aventurina </td>
+    <td> <a href="–/.md">Aventurina</a> </td>
   </tr>
   <tr>
-    <td> governyzacion </td>
-    <td> Foundacion of Antarctica </td>
+    <td> <a href="–/.md">governyzacion</a> </td>
+    <td> <a href="–/.md">Foundacion of Antarctica</a> </td>
   </tr>
   <tr>
-    <td> ascendent </td>
-    <td> Altan Ark </td>
+    <td> <a href="–/.md">ascendent</a> </td>
+    <td> <a href="–/.md">Altan Ark</a> </td>
   </tr>
   <tr>
-    <td> linque </td>
-    <td> Sino-Antarctican Neo-English </td>
+    <td> <a href="–/.md">linque</a> </td>
+    <td> <a href="–/.md">Sino-Antarctican Neo-English</a> </td>
   </tr>
   <tr>
     <td> citizens </td>
-    <td> Antarcticans </td>
+    <td> <a href="–/.md">Antarcticans</a> </td>
   </tr>
   <tr>
     <td> currency </td>
-    <td> Aetherion </td>
+    <td> <a href="–/.md">Aetherion</a> </td>
   </tr>
   <tr>
     <td> calender </td>
-    <td> Antarctican </td>
+    <td> <a href="–/.md">Antarctican</a> </td>
   </tr>
   <tr>
     <td> nascional song </td>
-    <td> <em>Welcome to Antarctica</em> </td>
+    <td> <em><a href="–/.md">Welcome to Antarctica</a></em> </td>
   </tr>
   <tr>
     <td> gemstone </td>
-    <td> Aventurine </td>
+    <td> <a href="../naturalics/crystallics/Aventurine.md">Aventurine</a> </td>
   </tr>
 </table>
 
