@@ -12,43 +12,43 @@ The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%N
   </tr>
   <tr>
     <td> continent </td>
-    <td> <a href="–/.md">Antarctic</a> </td>
+    <td> <a href="../.md">Antarctic</a> </td>
   </tr>
   <tr>
     <td> protive <a href="–/city.md">city</a> </td>
-    <td> <a href="–/.md">Ross City</a> </td>
+    <td> <a href="../.md">Ross City</a> </td>
   </tr>
   <tr>
     <td> protive <a href="–/district.md">district</a> </td>
-    <td> <a href="–/.md">Aventurina</a> </td>
+    <td> <a href="../geographics/dsitricts/Aventurina.md">Aventurina</a> </td>
   </tr>
   <tr>
-    <td> <a href="–/.md">governyzacion</a> </td>
-    <td> <a href="–/.md">Foundacion of Antarctica</a> </td>
+    <td> <a href="../.md">governyzacion</a> </td>
+    <td> <a href="organyzacions/Foundacion of Antarctica.md">Foundacion of Antarctica</a> </td>
   </tr>
   <tr>
-    <td> <a href="–/.md">ascendent</a> </td>
-    <td> <a href="–/.md">Altan Ark</a> </td>
+    <td> <a href="../.md">ascendent</a> </td>
+    <td> <a href="../.md">Altan Ark</a> </td>
   </tr>
   <tr>
-    <td> <a href="–/.md">linque</a> </td>
-    <td> <a href="–/.md">Sino-Antarctican Neo-English</a> </td>
+    <td> <a href="../.md" title="language">linque</a> </td>
+    <td> <a href="../logistics/linque/Sino-Antarctican Neo-English.md">Sino-Antarctican Neo-English</a> </td>
   </tr>
   <tr>
     <td> citizens </td>
-    <td> <a href="–/.md">Antarcticans</a> </td>
+    <td> Antarcticans </td>
   </tr>
   <tr>
     <td> currency </td>
-    <td> <a href="–/.md">Aetherion</a> </td>
+    <td> <a href="../.md">Aetherion</a> </td>
   </tr>
   <tr>
     <td> calender </td>
-    <td> <a href="–/.md">Antarctican</a> </td>
+    <td> <a href="../chronologics/Antarctican Calendar.md">Antarctican</a> </td>
   </tr>
   <tr>
     <td> nascional song </td>
-    <td> <em><a href="–/.md">Welcome to Antarctica</a></em> </td>
+    <td> <em><a href="../.md">Welcome to Antarctica</a></em> </td>
   </tr>
   <tr>
     <td> gemstone </td>
@@ -56,7 +56,7 @@ The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%N
   </tr>
 </table>
 
-While relatively isolyzen, Antarctica has highly advancen technologics and an extraordinarily harmonical society. It is governed by the [Foundacion of Antarctica](org/Foundacion%20of%20Antarctica.md). Its protive (capital) city is [Ross City](../geo/citys/Ross%20City.md), in the protive district of [Aventurina](../geo/districts/Aventurina.md). Antarctica has its own [calendar](...), [festivitys](...) and [lore](...). Citizens of Antarctica are known as *Antarcticans*.
+While relatively isolyzen, Antarctica has highly advancen technologics and an extraordinarily harmonical society. It is governed by the [Foundacion of Antarctica](organyzacions/Foundacion%20of%20Antarctica.md). Its protive (capital) city is [Ross City](../geographics/citys/Ross%20City.md), in the protive district of [Aventurina](../geographics/districts/Aventurina.md). Antarctica has its own [calendar](...), [festivitys](...) and [lore](...). Citizens of Antarctica are known as *Antarcticans*.
 
 
 <br>
@@ -72,7 +72,7 @@ While relatively isolyzen, Antarctica has highly advancen technologics and an ex
 ## Infrastructure
 While the ‘territory’ of Antarctica covers the entire continent, for practical purposes the nascion resides within the [Geosphere](...); any [area](...) outside this is known as ‘wasteland’ or ‘frostland’.
 
-Antarctica is divided into 12 [*districts*](...), each containing several *citys*.
+Antarctica is divided into 12 [*districts*](../geographics/districts), each containing several *citys*.
 
 | district | citys |
 | :------- | :---- |
@@ -81,7 +81,7 @@ Antarctica is divided into 12 [*districts*](...), each containing several *citys
 | Dessica | |
 | Devlan | |
 
-> See [districts](...) and [citys](...) for more.
+> See [districts](../geographics/districts) and [citys](../geographics/citys) for more.
 
 
 <br>
@@ -114,9 +114,9 @@ At its heart, Antarctica is advancive.
 ## Military
 > See [Military of Antarctica](...) for more.
 
-Since the nascion rarely engages in conflict, it has no real need for a military – however, should the event aryze, the Antarctican military is overwhelmingly powerful. It has [ground](...), [sea](...), [air](...), [space](...) forces, featuring an endless array of [weaponcraft](–/lan/dict.md#weaponcraft) and [transcraft](...).
+Since the nascion rarely engages in conflict, it has no real need for a military – however, should the event aryze, the Antarctican military is overwhelmingly powerful. It has [ground](...), [sea](...), [air](...), [space](...) forces, featuring an endless array of [weaponcraft](–/lan/dict.md#weaponcraft 'weaponry') and [transcraft](... 'transport').
 
-[Involucion](–/lan/...) is not [mandative](–/lan/...) at all. Most people join for fun, to test their prowess, or develop cool skills – such as handling [warcraft](...) or strategical thinking.
+[Involucion](–/lan/... 'involvement') is not [mandative](–/lan/... 'mandatory') at all. Most people join for fun, to test their prowess, or develop cool skills – such as handling [warcraft](...) or strategical thinking.
 
 
 <br>
