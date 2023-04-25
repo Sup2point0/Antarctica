@@ -4,7 +4,7 @@
 
 > Not to be confused with the [Continent of Antarctica](–/Continent%20of%20Antarctica.md).
 
-The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%Neo-English.md 'officially') the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/advancivity.md) country spanning the entirety of the [Antarctive continent](...) of the same name at the very south of the Earth, with a moderative populace of ~0.2 [deutillion](–/lan/series.md#-illion) people.
+The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%Neo-English.md 'officially') the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/advancivity.md) country spanning the entirety of the [Antarctive continent](...) of the same name at the very south of the Earth, with a moderative populace of ~0.2 [deutillion](–/lan/series.md#-illion 'billion') people.
 
 <table>
   <tr>
@@ -12,7 +12,7 @@ The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%N
   </tr>
   <tr>
     <td> continent </td>
-    <td> Antarctic </td>
+    <td> <a href="–/.md">Antarctic</a> </td>
   </tr>
   <tr>
     <td> protive <a href="–/city.md">city</a> </td>
@@ -56,7 +56,7 @@ The **Nascion of Antarctica**, [officiatively](../logi/linque/Sino-Antarctican%N
   </tr>
 </table>
 
-While relatively isolyzen, Antarctica has highly advancen technologics and an extraordinarily harmonical society. It is governed by the [Foundacion of Antarctica](...). Its protive (capital) city is [Ross City](...), in the protive district of [Aventurina](...). Antarctica has its own calendar, festivitys and lore. Citizens of Antarctica are known as *Antarcticans*.
+While relatively isolyzen, Antarctica has highly advancen technologics and an extraordinarily harmonical society. It is governed by the [Foundacion of Antarctica](org/Foundacion%20of%20Antarctica.md). Its protive (capital) city is [Ross City](../geo/citys/Ross%20City.md), in the protive district of [Aventurina](../geo/districts/Aventurina.md). Antarctica has its own [calendar](...), [festivitys](...) and [lore](...). Citizens of Antarctica are known as *Antarcticans*.
 
 
 <br>
