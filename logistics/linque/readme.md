@@ -17,16 +17,22 @@ For the most part, Antarctican English remains identical to British English and 
 ### Verb Root Endings
 Verbs roots previously ending in `-ate`, `-ise`, `-ize`, `-yse` now end in `-yze`; similarly, those ending in `-fy` now end in `-fyze`. Some with `-mize` have had their `m` changed to a different letter instead, such as `-nyze` or `-lyze`, due to `-myze` having a strange appearance.
 
+| English | Antarctican | instances |
+| :------ | :---------- | :-------- |
 | `-ate` // `-ise`, `-ize`, `-yse` | `-yze` | *isolyze*, *realyze* |
 | `-fy` | `-fyze` | *verifyze* |
 | `-mise`, `-mize` | `-lyze`, `-nyze` | *randonyze*, *custolyze* |
 
 However, a select few `-ate` verbs change to *-ace* instead.
 
+| English | Antarctican | instances |
+| :------ | :---------- | :-------- |
 | `-ate` | `-ace` | *inflace*, *frustrace* |
 
 As such, the noun forms of verbs now end in `-acion`.
 
+| English | Antarctican | instances |
+| :------ | :---------- | :-------- |
 | `-ation` | `-acion` | *standardyzacion*, |
 | `-osis` | `yzacion` | *cytyzacion*, *metamorphyzacion* |
 
