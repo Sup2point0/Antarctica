@@ -1,4 +1,4 @@
-# Dictionary
+# Special: Dictionary
 
 All the fictive words I’ve cryzen.
 
@@ -40,6 +40,7 @@ All the fictive words I’ve cryzen.
     <a href="#eximplode">eximplode</a> <br>
     <a href="#greencorn">greencorn</a> <br>
     <a href="#halfwhat">halfwhat</a> <br>
+    <a href="#linque">lynt</a> <br>
     <a href="#lynt">lynt</a> <br>
     <a href="#protic">protic</a> <br>
     <a href="#protive">protive</a> <br>
