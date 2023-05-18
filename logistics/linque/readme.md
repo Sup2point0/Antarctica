@@ -23,7 +23,7 @@ Verbs roots previously ending in `-ate`, `-ise`, `-ize`, `-yse` now end in `-yze
 | `-fy` | `-fyze` | *verifyze* |
 | `-mise`, `-mize` | `-lyze`, `-nyze` | *randonyze*, *custolyze* |
 
-However, a select few `-ate` verbs change to *-ace* instead.
+However, a select few `-ate` verbs change to `-ace` instead.
 
 | English | Antarctican | instances |
 | :------ | :---------- | :-------- |
