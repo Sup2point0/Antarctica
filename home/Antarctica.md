@@ -31,7 +31,7 @@ The **Nascion of Antarctica**, [officiatively](../logistics/linque/readme.md 'of
     <td> <a href="../.md">Altan Ark</a> </td>
   </tr>
   <tr>
-    <td> <a href="../logistics/linque/readme.md" title="language">linque</a> </td>
+    <td> <a href="../logistics/linque/dict.md#linque" title="language">linque</a> </td>
     <td> <a href="../logistics/linque/readme.md">Sino-Antarctican Neo-English</a> </td>
   </tr>
   <tr>
