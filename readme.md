@@ -1,6 +1,6 @@
 # Antarctica
 
-Welcome to [Antarctica](home/Antarctica.md), a [fictive](logistics/linque/readme.md 'fictional') [nascion](logistics/linque/dict.md#nascion 'nation') [cryzen](logistics/linque/dict.md#cryze 'created') by [Sup#2.0](https://github.com/Sup2point0). You can discover all about it [here](home/Antarctica.md).
+Welcome to [Antarctica](home/readme.md), a [fictive](logistics/linque/readme.md 'fictional') [nascion](logistics/linque/dict.md#nascion 'nation') [cryzen](logistics/linque/dict.md#cryze 'created') by [Sup#2.0](https://github.com/Sup2point0). You can discover all about it [here](home/Antarctica.md).
 
 
 <br>
