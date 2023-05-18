@@ -90,7 +90,7 @@ Antarctica is divided into 12 [*districts*](../geographics/districts), each cont
 ## Technologics
 Through enduring and surviving such a harsh environ, Antarctica has developen extraordinary technologics.
 
-To allow the region to remain confortively inhabitable, a [SPACES](... 'Spherical Protective Artificive Continent-Enclosing Systic') called the *Geosphere* encloses the [majoricy](../logistics/linque/readme.md 'majority') of the continent. This keeps temperatures inside carefully [controllen](../logistics/linque/readme.md#Verb-Endings 'controlled'), while protecting the nascion from extreme weather phenomena, harmful radiacion, and even [unexpecten](../logistics/linque/readme.md#Verb-Endings 'unexpected') or uninviten intruders.
+To allow the region to remain confortively inhabitable, a [SPACES](... 'Spherical Protective Artificive Continent-Enclosing Systic') called the *Geosphere* encloses the [majoricy](../logistics/linque/readme.md 'majority') of the continent. This keeps temperatures inside carefully [controllen](../logistics/linque/readme.md#Verb-Endings 'controlled'), while protecting the nascion from extreme weather phenomena, harmful radiacion, and even [unexpecten](../logistics/linque/readme.md#Verb-Endings 'unexpected') or [uninviten](../logistics/linque/readme.md#Verb-Endings 'uninvited') intruders.
 
 > See [Geosphere](...) for more.
 
