@@ -97,7 +97,7 @@ All the fictive words I’ve cryzen.
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [](#)  
 
@@ -126,7 +126,7 @@ All the fictive words I’ve cryzen.
 ### Noun
 `/ə'fiːn, a'fiːn/`
 
-*[abstract]()*
+[*abstract*]()
 
 1. magic; supernaturalism.  
 &ensp; *Affine is a phenomenon found in many xeriques.*
@@ -137,7 +137,7 @@ All the fictive words I’ve cryzen.
 > similar: magic
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [affinical](#affinical)  
 &emsp; [affinics](#affinics)  
@@ -168,7 +168,7 @@ All the fictive words I’ve cryzen.
 ### Adjective
 `/əˈfɪnɪtɪk(ə)l/`
 
-*[descriptive]()*
+[*descriptive*]()
 
 1. relyzen to affine.  
 &ensp; *Affinical weapons are far deadlier than tradicional wepaons.*
@@ -197,7 +197,7 @@ All the fictive words I’ve cryzen.
 ### Noun
 `/əˈfɪnɪks/`
 
-*[abstract]()*, *[topic]()*
+[*abstract*]()*, *[topic]()
 
 1. the topic/field of affine.  
 &ensp; *There is very little known about affinics.*
@@ -225,14 +225,14 @@ All the fictive words I’ve cryzen.
 ### Noun
 `/əˈfɪnɪtɪk/`
 
-*[agentive]()*  
+[*agentive*]()  
 plural *affinitics*
 
 1. A being possessing an affinity.  
 &ensp; *Xe’s an affinitic.*
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [affinitics](#affinitics)  
 
@@ -261,7 +261,7 @@ plural *affinitics*
 ### Noun
 `/əˈfɪnɪtɪks/`
 
-*[abstract]()*, *[topic]()*
+[*abstract*]()*, *[topic]()
 
 1. the topic/field of aspects relyzen to affinitys.  
 &ensp; *It is beneficial to understand the underlying principles of affinitics.*
@@ -290,7 +290,7 @@ plural *affinitics*
 ### Adjective
 `/əˈfɪnɪtɪv/`
 
-*[attributive]()*
+[*attributive*]()
 
 1. of or relating to affinitys.  
 &ensp; *Affinitive tests are quite different to standard written examinyzacions.*
@@ -312,7 +312,7 @@ plural *affinitics*
 ### Noun
 `/əˈfɪnɪti/`
 
-*[abstract]()*  
+[*abstract*]()  
 plural *affinitys*
 
 1. an affinical power.  
@@ -320,7 +320,7 @@ plural *affinitys*
 > similar: superpower
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [affinitic](#affinitic)  
 &emsp; [affinitive](#affinitive)  
@@ -352,13 +352,13 @@ plural *affinitys*
 ### Verb
 `/–/`
 
-*[sense]()*
+[*sense*]()
 
 1. to unlock or grant an affinity.  
 &ensp; *Xe affinityzed for the first time upon reaching the age of 12.*
 
 <details>
-  <summary> <b> Conjugyzacion </b> </summary> <br>
+  <summary> <b> Conjugacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -369,7 +369,7 @@ plural *affinitys*
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [affinityzacion](#affinityzacion)
 
@@ -405,7 +405,7 @@ plural *affinitys*
 &ensp; *All devices have an inbuilt feature to antect a given decate.*
 
 <details>
-  <summary> <b> Conjugyzacion </b> </summary> <br>
+  <summary> <b> Conjugacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -416,7 +416,7 @@ plural *affinitys*
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [antectics](#antectics)  
 &emsp; [antectical](#antectical)  
@@ -446,7 +446,7 @@ plural *affinitys*
 ### Noun
 `/'dɛkənt/`
 
-*[abstract]()*  
+[*abstract*]()  
 plural *decants*
 
 1. a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
@@ -454,7 +454,7 @@ plural *decants*
 > similar: month
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [didecant](#didecant)  
 &emsp; [decate](#decate)  
@@ -484,7 +484,7 @@ plural *decants*
 ### Noun
 `/'dɛkeɪt/`
 
-*[abstract]()*  
+[*abstract*]()  
 plural *decates*
 
 1. the date.  
@@ -517,7 +517,7 @@ plural *decates*
 ### Adjective
 `/duː'tɪv/`
 
-*[attributive]()*
+[*attributive*]()
 
 1. secondary.  
 &ensp; *{test}*
@@ -541,6 +541,79 @@ plural *decates*
 <br>
 
 
+## linque
+
+### Noun
+`/lɪŋk/`
+
+[*count*]()
+
+1. a language.  
+&ensp; *[Sino-Antarctican Neo-English](readme.md) is the linque of the [Unyzen Nascion of Antarctica](../../home/readme.md).*
+> similar: language
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *New Antarctica* » backwards deryvacion from Antarctican [***linquistics***](#linquistics)
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [linquistics](#linquistics)  
+
+</details>
+
+
+<br>
+
+
+## linquistics
+
+### Noun
+`/lɪŋˈkwɪstɪks/`
+
+[*count*]()
+
+1. the topic/field of languages.  
+&ensp; *Xe is interesten in linquistics.*
+> similar: linguistics
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [linque](#linque)  
+&emsp; [linquistical](#linquistical)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *New Antarctica* » English ***linguistics***
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## lynt
 
 ### Verb
@@ -552,7 +625,7 @@ plural *decates*
 &ensp; *{test}*
 
 <details>
-  <summary> <b> Conjugyzacion </b> </summary> <br>
+  <summary> <b> Conjugacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
@@ -563,7 +636,7 @@ plural *decates*
 </details>
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [lynten](#lynten)  
 &emsp; [lynts](#lynt#noun)  
@@ -587,7 +660,7 @@ plural *decates*
 ### Noun
 `/lɪnt/`
 
-*[count]()*  
+[*count*]()  
 plural *lynts*
 
 1. {definyzacion}  
@@ -616,7 +689,7 @@ plural *lynts*
 ### Adjective
 `/'prəʊtɪv/`
 
-*[attributive]()*
+[*attributive*]()
 
 1. primary.  
 &ensp; *{test}*
@@ -645,7 +718,7 @@ plural *lynts*
 ### Noun
 `/'sɛptən/`
 
-*[abstract]()*  
+[*abstract*]()  
 plural *septans*
 
 1. a unit of time in the Antarctican calendar, equivalent to a week.  
@@ -653,7 +726,7 @@ plural *septans*
 > similar: week
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [septate](#septate)  
 
@@ -682,7 +755,7 @@ plural *septans*
 ### Noun
 `/'sɛpteɪt/`
 
-*[abstract]()*  
+[*abstract*]()  
 plural *septates*
 
 1. the day of the week in the Antarctican calendar.  
@@ -714,7 +787,7 @@ plural *septates*
 `/'ksɛrɪk, ksɛ'riːk/`
 `/'zɛrɪk, zɛ'riːk/`
 
-*[count]()*  
+[*count*]()  
 plural *xeriques*
 
 1. a realm; a dimension. Our universe is a xerique.  
@@ -724,7 +797,7 @@ plural *xeriques*
 > See [Supxerique](–) for more.
 
 <details>
-  <summary> <b> Derivatives </b> </summary>
+  <summary> <b> Deryvatics </b> </summary>
 
 &emsp; [Supxerique](#supxerique)  
 
