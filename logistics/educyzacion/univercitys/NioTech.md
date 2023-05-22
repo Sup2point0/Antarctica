@@ -1,3 +1,3 @@
 # NioTech
 
-The [Nascional](...) Institute of Technology, is a [univercity](.../Univercitys%20of%Antarctica.md) of Antarctica [locyzen](...) in [Atla](.../Atla.md), [Atalla](.../Atalla.md).
+The [Nascional](... 'national') Institute of Technology, is a [univercity](readme.md) of Antarctica [locyzen](... 'located') in [Atla](.../Atla.md), [Atalla](.../Atalla.md).
