@@ -2,7 +2,7 @@
 
 The [systic](... 'system') under which everyone is [educyzen](... 'educated') in Antarctica, [officiatively](... 'officially') the *Antarctican Educyzacion Systic* (AES).
 
-Unlike in other countrys, Antarctica’s educyzacion systic is not [basen](... 'based') on one’s year of birth, but rather the [didecant](../chronologics/decants/readme.md) – children are [sorten](... 'sorted') into classes with others born in the same didecant. This minimalyzes [potencively](... 'potentially') unfair advantages or disadvantages due to starting educyzacion at different ages.
+Unlike in other countrys, Antarctica’s educyzacion systic is not [basen](... 'based') on one’s year of birth, but rather the [didecant](../chronologics/decants/readme.md) – children are [sorten](... 'sorted') into classes with others born in the same didecant. This [minimalyzes](... 'minimises') [potencively](... 'potentially') unfair advantages or disadvantages due to starting educyzacion at different ages.
 
 
 <br>
