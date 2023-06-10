@@ -1,10 +1,10 @@
 # Antarctica
 
-> *This article is **under construction***. Apologies for any incomplete or disfunccional content.
+> *This article is **under construction***. Apologies for any incomplete or dysfunccional content.
 
 > Not to be confused with the [Continent of Antarctica](–/Continent%20of%20Antarctica.md).
 
-The **Nascion of Antarctica**, [officiatively](../logistics/linque/readme.md 'officially') the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/Advancivity.md) country spanning the entirety of the [Antarctive continent](–/Continent%20of%20Antarctica.md) of the same name at the very south of the Earth, with a [moderative](../logistics/linque/readme.md 'moderate') [populyzacion](../logistics/linque/readme.md 'population') of ~0.2 [deutillion](../logistics/linque/series.md#-illion 'billion') people.
+The **Nascion of Antarctica**, [officiatively](../logistics/linque/readme.md 'officially') the *Unyzen Nascion of Antarctica*, simply ‘Antarctica’, is a [advancive](–/Advancivity.md) country spanning the entirety of the [Antarctive continent](.../Antarctic.md) at the very south of the Earth, with a [moderative](../logistics/linque/readme.md 'moderate') [populyzacion](../logistics/linque/readme.md 'population') of ~0.2 [deutillion](../logistics/linque/series.md#-illion 'billion') people.
 
 <table>
   <tr>
@@ -12,7 +12,7 @@ The **Nascion of Antarctica**, [officiatively](../logistics/linque/readme.md 'of
   </tr>
   <tr>
     <td> continent </td>
-    <td> <a href="–/Continent%20of%20Antarctica.md">Antarctic</a> </td>
+    <td> <a href="–/Antarctic.md">Antarctic</a> </td>
   </tr>
   <tr>
     <td> protive <a href="../geographics/citys/readme.md">city</a> </td>
