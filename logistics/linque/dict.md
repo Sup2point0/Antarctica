@@ -24,6 +24,8 @@ All the fictive words I’ve cryzen.
     <a href="#affinityzacion">affinityzacion</a> <br>
     <a href="#affinityze">affinityze</a> <br>
     <a href="#antect">antect</a> <br>
+    <a href="#anthroxerique">Anthroxerique</a> <br>
+    <a href="#antixistence">Antixistence</a> <br>
     <a href="#arculent">arculent</a> <br>
     <a href="#aspect">aspect</a> <br>
     <a href="#avricop">avricop</a> <br>
@@ -31,19 +33,26 @@ All the fictive words I’ve cryzen.
     <a href="#antectical">antectical</a> <br>
     <a href="#antectics">antectics</a> <br>
     <a href="#crabatista">crabatista</a> <br>
+    <a href="#crackshit">crackshit</a> <br>
     <a href="#dawntime">dawntime</a> <br>
     <a href="#decant">decant</a> <br>
     <a href="#decate">decate</a> <br>
-    <a href="#deuteric">deuteric</a> <br>
+    <a href="#deutic">deutic</a> <br>
     <a href="#deutive">deutive</a> <br>
     <a href="#didecant">didecant</a> <br>
     <a href="#eximplode">eximplode</a> <br>
+    <a href="#frequery">frequery</a> <br>
     <a href="#greencorn">greencorn</a> <br>
     <a href="#halfwhat">halfwhat</a> <br>
-    <a href="#linque">lynt</a> <br>
+    <a href="#lacteral">lacteral</a> <br>
+    <a href="#linque">linque</a> <br>
+    <a href="#lokay">lokay</a> <br>
     <a href="#lynt">lynt</a> <br>
     <a href="#protic">protic</a> <br>
     <a href="#protive">protive</a> <br>
+    <a href="#septan">septan</a> <br>
+    <a href="#septate">septate</a> <br>
+    <a href="#sery">sery</a> <br>
     <a href="#superaffinity">superaffinity</a> <br>
     <a href="#sylonautilla">sylonautilla</a> <br>
     <a href="#synthevetix">synthevetix</a> <br>
@@ -61,10 +70,13 @@ All the fictive words I’ve cryzen.
     <a href="#xeri">Xeri</a> <br>
     <a href="#xeriqive">xeriqive</a> <br>
     <a href="#xerique">xerique</a> <br>
+    <a href="#xeriqui">xeriqui</a> <br>
     <a href="#xero">Xero</a> <br>
     <a href="#xeroque">xeroque</a> <br>
+    <a href="#xistence">Xistence</a> <br>
+    <a href="#zelixe">zelixe</a> <br>
+    <a href="#zerixe">zerixe</a> <br>
     <a href="##">–</a> <br>
-    <a href="##">–</a>
   </td>
 </table>
 
@@ -77,9 +89,492 @@ All the fictive words I’ve cryzen.
 ## acronyze
 
 ### Verb
-`/ˌakrəˈnʌɪz/`
+`/ˌakroʊˈnʌɪz, ˌakrəˈnʌɪz/`
 
-[*prototransitive*]()
+[*prototransitive*](readme.md)
+
+1. to convert something (a name, or a [sery](#sery) of words, for instance) into an acronym.  
+&ensp; *Can you acronyze that?*
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+<table>
+  <tr>
+    <th> tense </th>
+    <th> perfect </th>
+    <th> imperfect </th>
+  </tr>
+  <tr>
+    <th> past </th>
+    <td> acronyzed </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th> present </th>
+    <td> have acronyzen </td>
+    <td> acronyzing </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; New Antarctica » English ***acronym*** + Antarctican ***-yze*** ‘verb’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## affine
+
+### Noun
+`/əˈfiːn, aˈfiːn/`
+
+[*abstract*](readme.md)
+
+1. magic; supernaturalism.  
+&ensp; *Affine is a phenomenon found in many xeriques.*
+> similar: magic, supernaturalism
+
+2. magical or supernatural energy.  
+&ensp; *Xi released a huge burst of affine.*
+> similar: magic
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [affinical](#affinical)  
+&emsp; [affinics](#affinics)  
+&emsp; [affinity](#affinity)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity***
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## affinical
+
+### Adjectic
+`/əˈfɪnɪk(ə)l/`
+
+[*descriptive*](readme.md)
+
+1. relyzing to affine.  
+&ensp; *Affinical weapons are far deadlier than tradicional wepaons.*
+> similar: magical, supernatural
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affine*** + ***-ical*** ‘adjectic’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affinics](#affinics)  
+
+</details>
+
+
+<br>
+
+
+## affinics
+
+### Noun
+`/əˈfɪnɪks/`
+
+[*abstract*](readme.md), [*topic*](readme.md)
+
+1. the topic/field/study of affine.  
+&ensp; *There is very little known about affinics.*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affine*** + ***-ics*** ‘topic’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affine](#affine)
+
+</details>
+
+
+<br>
+
+
+## affinitic
+
+### Noun
+`/əˈfɪnɪtɪk/`
+
+[*agentive*](readme.md)  
+plural *affinitics* (not to be confused with the topic [*affinitics*](#affinitics))
+
+1. A being possessing an affinity.  
+&ensp; *Xi’s an affinitic.*
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [affinitics](#affinitics)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + ***-ic*** ‘instance’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affinity](#affinity)  
+
+</details>
+
+
+<br>
+
+
+## affinitics
+
+### Noun
+`/əˈfɪnɪtɪks/`
+
+[*abstract*](readme.md), [*topic*](readme.md)
+
+1. the topic/field/study of aspects relyzen to affinitys.  
+&ensp; *It is beneficial to understand the underlying principles of affinitics.*
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + Antarctican ***-ics*** ‘topic’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affinity](#affinity)  
+&emsp; [affinics](#affinics)  
+
+</details>
+
+
+<br>
+
+
+## affinitive
+
+### Adjectic
+`/əˈfɪnɪtɪv/`
+
+[*attributive*](readme.md)
+
+1. of or relyzing to affinitys.  
+&ensp; *Affinitive tests are quite different to standard written examinacions.*
+> similar: [](#)
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affinity*** + ***-ive*** ‘adjectic’
+
+</details>
+
+
+<br>
+
+
+## affinity
+
+### Noun
+`/əˈfɪnɪti/`
+
+[*abstract*](readme.md)  
+plural *affinitys*
+
+1. an affinical power.  
+&ensp; *Xi unlocked xis first affinity.*
+> similar: superpower
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [affinitic](#affinitic)  
+&emsp; [affinitive](#affinitive)  
+&emsp; [affinitics](#affinitics)  
+&emsp; [affinityze](#affinityze)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity***
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affine](#affine)  
+
+</details>
+
+
+<br>
+
+
+## affinityzacion
+
+### Noun
+`/əˌfɪnɪtʌɪˈzeiʃ(ə)n/`, `/əˌfɪnɪtɪˈzeiʃ(ə)n/`
+
+*[abstract](readme.md)*, *[topic](readme.md)*
+
+1. the process of unlocking or obtaining an affinity.  
+&ensp; *Affinityzacion can occur both naturally or artificially,*
+> similar: magicalisation
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » Antarctican ***affinityze*** + ***-acion*** ‘process’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affinity](#affinity)  
+&emsp; [affinitic](#affinitic)  
+
+</details>
+
+
+<br>
+
+
+## affinityze
+
+### Verb
+`/əˌfɪnɪˈtʌɪz/`
+
+[*intransitive*](readme.md)
+
+1. to unlock or grant an affinity.  
+&ensp; *Xe affinityzed for the first time upon reaching the age of 12.*
+
+[*prototransitive](readme.md)
+
+2. to fill or endow something with affine.
+&ensp; *The air was affinityzen by the ferocity of their conflict.*
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+<table>
+  <tr>
+    <th> tense </th>
+    <th> perfect </th>
+    <th> imperfect </th>
+  </tr>
+  <tr>
+    <th> past </th>
+    <td> affinityzed </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th> present </th>
+    <td> affinityzen </td>
+    <td> affinityzing </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [affinityzacion](#affinityzacion)
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *unknown* » English ***affinity*** + Antarctican ***-yze*** ‘verb’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [affinity](#affinity)  
+&emsp; [affinitic](#affinitic)  
+
+</details>
+
+
+<br>
+
+
+## antect
+
+### Verb
+`/an'tɛkt/`
+
+[*prototransitive*](readme.md)
+
+1. to convert a date from another calendar to the [Antarctican calendar](../chronologics/readme.md).  
+&ensp; *All devices have an inbuilt feature to antect a given decate.*
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+<table>
+  <tr>
+    <th> tense </th>
+    <th> perfect </th>
+    <th> imperfect </th>
+  </tr>
+  <tr>
+    <th> past </th>
+    <td> antected </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th> present </th>
+    <td> antecten </td>
+    <td> antecting </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [antectics](#antectics)  
+&emsp; [antectical](#antectical)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *spontaneous emergence* » may have deryven from ‘Antarctica’
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [decate](#decate)  
+
+</details>
+
+
+<br>
+
+
+
+## Anthroxerique
+
+### Case
+`/ˌanθroʊˈksɛrɪk, ˌanθroʊˈksɛriːk/`  
+`/ˌanθroʊˈgzɛrɪk, ˌanθroʊˈgzɛriːk/`
+
+*[abstract](readme.md)*
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## Antixistence
+
+### Case
+`/ˌantiːˈgzist(ə)ns, ˌantiːˈgzist(ə)nts/`  
+`/ˌantiːˈksist(ə)ns, ˌantiːˈksist(ə)nts/`
+
+[*sense*](readme.md)
 
 1. definicion  
 &ensp; *test*
@@ -121,34 +616,39 @@ All the fictive words I’ve cryzen.
 <br>
 
 
-## affine
+## arculent
 
-### Noun
-`/ə'fiːn, a'fiːn/`
+### Case
+`/ˈaːkjʊl(ə)t/`
 
-[*abstract*]()
+[*sense*](readme.md)
 
-1. magic; supernaturalism.  
-&ensp; *Affine is a phenomenon found in many xeriques.*
-> similar: magic, supernaturalism
+1. definicion  
+&ensp; *test*
+> similar: [](#)
 
-2. magical or supernatural energy.  
-&ensp; *Xe released a huge burst of affine.*
-> similar: magic
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
 
 <details>
   <summary> <b> Deryvatics </b> </summary>
 
-&emsp; [affinical](#affinical)  
-&emsp; [affinics](#affinics)  
-&emsp; [affinity](#affinity)  
+&emsp; [](#)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *unknown* » English ***affinity***
+&emsp; – » 
 
 </details>
 
@@ -163,183 +663,46 @@ All the fictive words I’ve cryzen.
 <br>
 
 
-## affinical
+## aspect
 
-### Adjective
-`/əˈfɪnɪtɪk(ə)l/`
+### Case
+`/ˈaspɛkt/`
 
-[*descriptive*]()
+[*sense*](readme.md)
 
-1. relyzen to affine.  
-&ensp; *Affinical weapons are far deadlier than tradicional wepaons.*
-> similar: magical, supernatural
-
-<details>
-  <summary> <b> Etymologics </b> </summary>
-
-&emsp; *unknown* » Antarctican ***affine*** + ***-ical*** ‘adjective’
-
-</details>
-
-<details>
-  <summary> <b> Relyzen </b> </summary>
-
-&emsp; [affinics](#affinics)  
-
-</details>
-
-
-<br>
-
-
-## affinics
-
-### Noun
-`/əˈfɪnɪks/`
-
-[*abstract*]()*, *[topic]()
-
-1. the topic/field of affine.  
-&ensp; *There is very little known about affinics.*
-
-<details>
-  <summary> <b> Etymologics </b> </summary>
-
-&emsp; *unknown* » Antarctican ***affine*** + ***-ics*** ‘topic’
-
-</details>
-
-<details>
-  <summary> <b> Relyzen </b> </summary>
-
-&emsp; [affine](#affine)
-
-</details>
-
-
-<br>
-
-
-## affinitic
-
-### Noun
-`/əˈfɪnɪtɪk/`
-
-[*agentive*]()  
-plural *affinitics*
-
-1. A being possessing an affinity.  
-&ensp; *Xe’s an affinitic.*
-
-<details>
-  <summary> <b> Deryvatics </b> </summary>
-
-&emsp; [affinitics](#affinitics)  
-
-</details>
-
-<details>
-  <summary> <b> Etymologics </b> </summary>
-
-&emsp; *unknown* » English ***affinity*** + ***-ic*** ‘instance’
-
-</details>
-
-<details>
-  <summary> <b> Relyzen </b> </summary>
-
-&emsp; [affinity](#affinity)  
-
-</details>
-
-
-<br>
-
-
-## affinitics
-
-### Noun
-`/əˈfɪnɪtɪks/`
-
-[*abstract*]()*, *[topic]()
-
-1. the topic/field of aspects relyzen to affinitys.  
-&ensp; *It is beneficial to understand the underlying principles of affinitics.*
-
-<details>
-  <summary> <b> Etymologics </b> </summary>
-
-&emsp; *unknown* » English ***affinity*** + Antarctican ***-ics*** ‘topic’
-
-</details>
-
-<details>
-  <summary> <b> Relyzen </b> </summary>
-
-&emsp; [affinity](#affinity)  
-&emsp; [affinics](#affinics)  
-
-</details>
-
-
-<br>
-
-
-## affinitive
-
-### Adjective
-`/əˈfɪnɪtɪv/`
-
-[*attributive*]()
-
-1. of or relating to affinitys.  
-&ensp; *Affinitive tests are quite different to standard written examinyzacions.*
+1. definicion  
+&ensp; *test*
 > similar: [](#)
 
 <details>
-  <summary> <b> Etymologics </b> </summary>
+  <summary> <b> Conjugacion </b> </summary> <br>
 
-&emsp; *unknown* » Antarctican ***affinity*** + ***-ive*** ‘adjective’
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
 
 </details>
-
-
-<br>
-
-
-## affinity
-
-### Noun
-`/əˈfɪnɪti/`
-
-[*abstract*]()  
-plural *affinitys*
-
-1. an affinical power.  
-&ensp; *Xe unlocked xis first affinity.*
-> similar: superpower
 
 <details>
   <summary> <b> Deryvatics </b> </summary>
 
-&emsp; [affinitic](#affinitic)  
-&emsp; [affinitive](#affinitive)  
-&emsp; [affinitics](#affinitics)  
-&emsp; [affinityze](#affinityze)  
+&emsp; [](#)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *unknown* » English ***affinity***
+&emsp; – » 
 
 </details>
 
 <details>
   <summary> <b> Relyzen </b> </summary>
 
-&emsp; [affine](#affine)  
+&emsp; [](#)  
 
 </details>
 
@@ -347,46 +710,46 @@ plural *affinitys*
 <br>
 
 
-## affinityze
+## avricop
 
-### Verb
-`/–/`
+### Case
+`/ˈeɪvrɪcɒp/`
 
-[*sense*]()
+[*sense*](readme.md)
 
-1. to unlock or grant an affinity.  
-&ensp; *Xe affinityzed for the first time upon reaching the age of 12.*
+1. definicion  
+&ensp; *test*
+> similar: [](#)
 
 <details>
   <summary> <b> Conjugacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
-| present | affinityzing |
-| past | affinityzed |
-| perfect | affinityzed |
+| present | – |
+| past | – |
+| perfect | – |
 
 </details>
 
 <details>
   <summary> <b> Deryvatics </b> </summary>
 
-&emsp; [affinityzacion](#affinityzacion)
+&emsp; [](#)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *unknown* » English ***affinity*** + Antarctican ***-yze*** ‘verb’
+&emsp; – » 
 
 </details>
 
 <details>
   <summary> <b> Relyzen </b> </summary>
 
-&emsp; [affinity](#affinity)  
-&emsp; [affinitic](#affinitic)  
+&emsp; [](#)  
 
 </details>
 
@@ -394,46 +757,281 @@ plural *affinitys*
 <br>
 
 
-## antect
+## antive
 
-### Verb
-`/an'tɛkt/`
+### Case
+`/ˈantɪv/`
 
-[*prototransitive*]()
+[*sense*](readme.md)
 
-1. to convert a date from another calendar to the Antarctican calendar.  
-&ensp; *All devices have an inbuilt feature to antect a given decate.*
+1. definicion  
+&ensp; *test*
+> similar: [](#)
 
 <details>
   <summary> <b> Conjugacion </b> </summary> <br>
 
 | tense | participle |
 | :---- | :--------- |
-| present | antecting |
-| past | antected |
-| perfect | antuct |
+| present | – |
+| past | – |
+| perfect | – |
 
 </details>
 
 <details>
   <summary> <b> Deryvatics </b> </summary>
 
-&emsp; [antectics](#antectics)  
-&emsp; [antectical](#antectical)  
+&emsp; [](#)  
 
 </details>
 
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *Spontaneous emergence* » may have derived from ‘Antarctica’
+&emsp; – » 
 
 </details>
 
 <details>
   <summary> <b> Relyzen </b> </summary>
 
-&emsp; [decate](#decate)  
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## antectical
+
+### Case
+`/ˈantɛktɪk(ə)l/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## antectics
+
+### Case
+`/ˈantɛktɪks/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## crabatista
+
+### Case
+`/ˌkrabəˈtɪstə/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## crackshit
+
+### Case
+`/ˌkrakˈʃit/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## dawntime
+
+### Case
+`/ˈdɔːntʌɪm/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
 
 </details>
 
@@ -444,9 +1042,9 @@ plural *affinitys*
 ## decant
 
 ### Noun
-`/'dɛkənt/`
+`/ˈdɛkənt/`
 
-[*abstract*]()  
+[*abstract*](readme.md)  
 plural *decants*
 
 1. a unit of time in the Antarctican calendar, corresponding to a month in the Gregorian calendar. Each year consists of 10 decants, alternating between 37 and 36 days long.  
@@ -482,9 +1080,9 @@ plural *decants*
 ## decate
 
 ### Noun
-`/'dɛkeɪt/`
+`/ˈdɛkeɪt/`
 
-[*abstract*]()  
+[*abstract*](readme.md)  
 plural *decates*
 
 1. the date.  
@@ -512,12 +1110,59 @@ plural *decates*
 <br>
 
 
+## deutic
+
+### Case
+`/duːˈtɪk/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## deutive
 
-### Adjective
-`/duː'tɪv/`
+### Adjectic
+`/duːˈtɪv/`
 
-[*attributive*]()
+[*attributive*](readme.md)
 
 1. secondary.  
 &ensp; *{test}*
@@ -525,7 +1170,7 @@ plural *decates*
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » Antarctican ***deuteric*** ‘secondary object’ + ***-al*** ‘adjective’
+&emsp; *New Antarctica* » Antarctican ***deuteric*** ‘secondary object’ + ***-al*** ‘adjectic’
 
 </details>
 
@@ -541,16 +1186,253 @@ plural *decates*
 <br>
 
 
+## didecant
+
+### Case
+`/ˈdʌɪdɛkənt/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## eximplode
+
+### Case
+`/ˌɛksɪmˈploʊd/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## frequery
+
+### Noun
+`/friːˈkwɪəri/`
+
+*[count](readme.md)*
+plural *frequerys*
+
+1. frequent queries; frequently asked questions.  
+&ensp; *See the frequerys seccion for help.*
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; Unyzen Nascion of Antarctica » English ***frequent*** + ***query***
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## greencorn
+
+### Case
+`/ˈgriːncɔːn/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## halfwhat
+
+### Adjectic / Adverb
+`/ˈhɑːfwɒt/`
+
+*[modifier](readme.md)*
+
+1. somewhat; to a moderate extent  
+&ensp; *It’s a halfwhat good idea.*
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; New Antarctica » English ***half*** + ***what***, following *somewhat*
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## lacteral
+
+### Adjectic
+`/ˈlɑktər(ə)l/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## linque
 
 ### Noun
 `/lɪŋk/`
 
-[*count*]()
+[*count*](readme.md)
+plural *linques*
 
 1. a language.  
 &ensp; *[Sino-Antarctican Neo-English](readme.md) is the linque of the [Unyzen Nascion of Antarctica](../../home/readme.md).*
-> similar: language
 
 <details>
   <summary> <b> Deryvatics </b> </summary>
@@ -582,10 +1464,10 @@ plural *decates*
 ### Noun
 `/lɪŋˈkwɪstɪks/`
 
-[*count*]()
+[*abtract*](readme.md), [*topic*](readme.md)
 
-1. the topic/field of languages.  
-&ensp; *Xe is interesten in linquistics.*
+1. the topic/field/study of languages.  
+&ensp; *Xi is interesten in linquistics.*
 > similar: linguistics
 
 <details>
@@ -614,12 +1496,47 @@ plural *decates*
 <br>
 
 
+## lokay
+
+### Interjection
+`/ˈləʊkeɪ/`
+
+*[interjection?](readme.md)*
+
+1. ‘lol, ok’.  
+&ensp; *Lokay, no problem.*
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; *spontaneous emergence* » English online slang ***lol*** ‘laugh out loud’ + ***okay***
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## lynt
 
 ### Verb
 `/'lɪnt/`
 
-[*prototransitive*]()
+[*prototransitive*](readme.md)
 
 1. {definyzacion}  
 &ensp; *{test}*
@@ -660,7 +1577,7 @@ plural *decates*
 ### Noun
 `/lɪnt/`
 
-[*count*]()  
+[*count*](readme.md)  
 plural *lynts*
 
 1. {definyzacion}  
@@ -669,7 +1586,54 @@ plural *lynts*
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » Antarctican verb ***lynt*** (since sweets are lynted)  
+&emsp; *New Antarctica* » Antarctican verb ***lynt*** (since sweets are lynten)  
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## protic
+
+### Noun
+`/ˈprəʊtɪk/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
 
 </details>
 
@@ -686,10 +1650,10 @@ plural *lynts*
 
 ## protive
 
-### Adjective
-`/'prəʊtɪv/`
+### Adjectic
+`/ˈprəʊtɪv/`
 
-[*attributive*]()
+[*attributive*](readme.md)
 
 1. primary.  
 &ensp; *{test}*
@@ -697,7 +1661,7 @@ plural *lynts*
 <details>
   <summary> <b> Etymologics </b> </summary>
 
-&emsp; *New Antarctica* » Antarctican ***protic*** ‘primary object’ + ***-al*** ‘adjective’
+&emsp; *New Antarctica* » Antarctican ***protic*** ‘primary object’ + ***-al*** ‘adjectic’
 
 </details>
 
@@ -716,9 +1680,9 @@ plural *lynts*
 ## septan
 
 ### Noun
-`/'sɛptən/`
+`/ˈsɛptən/`
 
-[*abstract*]()  
+[*abstract*](readme.md)  
 plural *septans*
 
 1. a unit of time in the Antarctican calendar, equivalent to a week.  
@@ -753,9 +1717,9 @@ plural *septans*
 ## septate
 
 ### Noun
-`/'sɛpteɪt/`
+`/ˈsɛpteɪt/`
 
-[*abstract*]()  
+[*abstract*](readme.md)  
 plural *septates*
 
 1. the day of the week in the Antarctican calendar.  
@@ -781,13 +1745,801 @@ plural *septates*
 <br>
 
 
+## superaffinity
+
+### Noun
+`/ˌsuːpə(r)əˈfɪnɪti/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## sylonautilla
+
+### Noun
+`/ˌsɪlənɔːˈtiːjə, ˌsɪlənɔːˈtɪlə/`  
+`/ˌsɪləʊnɔːˈtiːjə, ˌsɪləʊnɔːˈtɪlə/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## synthevetix
+
+### Case
+`/ˌsɪnth(ə)ˈvɛtɪks/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## Tersolle
+
+### Noun
+`/ˌtərˈsəʊl/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## verity
+
+### Noun
+`/ˈvɛrɪti/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xeliqive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xelique
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xeniqive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenique
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenitic
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenitive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenoqive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenoque
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenotic
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xenotive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## Xeri
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xeriqive
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
 ## xerique
 
 ### Noun
-`/'ksɛrɪk, ksɛ'riːk/`
-`/'zɛrɪk, zɛ'riːk/`
+`/'ksɛrɪk/`, `/ksɛ'riːk/`; `/'sɛrɪk/`, `/sɛ'riːk/`
 
-[*count*]()  
+[*count*](readme.md)  
 plural *xeriques*
 
 1. a realm; a dimension. Our universe is a xerique.  
@@ -809,3 +2561,284 @@ plural *xeriques*
 &emsp; *primordial* » Ancient Greek **ξέρω** *xéro* ‘know’ + ***-ique*** (alternative *-ic*)  
 
 </details>
+
+## xeriqui
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## Xero
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## xeroque
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## Xistence
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## zelixe
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
+
+
+## zerixe
+
+### Case
+`/–/`
+
+[*sense*](readme.md)
+
+1. definicion  
+&ensp; *test*
+> similar: [](#)
+
+<details>
+  <summary> <b> Conjugacion </b> </summary> <br>
+
+| tense | participle |
+| :---- | :--------- |
+| present | – |
+| past | – |
+| perfect | – |
+
+</details>
+
+<details>
+  <summary> <b> Deryvatics </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+<details>
+  <summary> <b> Etymologics </b> </summary>
+
+&emsp; – » 
+
+</details>
+
+<details>
+  <summary> <b> Relyzen </b> </summary>
+
+&emsp; [](#)  
+
+</details>
+
+
+<br>
